@@ -10,7 +10,7 @@ int main(){
     ios::sync_with_stdio(0);
     cin.tie(nullptr);
 
-    cout<<"Hello world";
+    cout<<"Hello";
 
     return 0;
 }
